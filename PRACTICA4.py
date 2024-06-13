@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jun 10 00:49:00 2024
-
 @author: arroy
 """
 
